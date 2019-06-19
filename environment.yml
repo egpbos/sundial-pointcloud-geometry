@@ -3,5 +3,6 @@ jupyterlab
 pptk
 pandas
 vaex-core
-sympy
 tqdm
+symfit
+ectopylasm
