@@ -9,6 +9,7 @@ dependencies:
   - vaex-core
   - tqdm
   - symfit
+  - pip
   - pip:
     - pptk
     - git+https://github.com/sundial-pointcloud-geometry/ectopylasm.git#egg=ectopylasm
