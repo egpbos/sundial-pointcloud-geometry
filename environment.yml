@@ -5,9 +5,10 @@ channels:
 dependencies:
   - ipyvolume
   - jupyterlab
-  - pptk
   - pandas
   - vaex-core
   - tqdm
   - symfit
-  - ectopylasm
+  - pip:
+    - pptk
+    - git+https://github.com/sundial-pointcloud-geometry/ectopylasm.git#egg=ectopylasm
