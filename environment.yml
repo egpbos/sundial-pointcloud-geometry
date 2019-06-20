@@ -1,8 +1,13 @@
-ipyvolume
-jupyterlab
-pptk
-pandas
-vaex-core
-tqdm
-symfit
-ectopylasm
+name: sundial_pointcloud_geometry_explore
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipyvolume
+  - jupyterlab
+  - pptk
+  - pandas
+  - vaex-core
+  - tqdm
+  - symfit
+  - ectopylasm
