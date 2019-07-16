@@ -1,5 +1,6 @@
 ## PROJECT SPECIFIC PATTERNS
 ObjID*.ply
+*.cache.ecto
 
 ## GENERIC PYTHON PATTERNS
 
