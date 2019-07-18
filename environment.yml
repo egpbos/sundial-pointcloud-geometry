@@ -13,3 +13,4 @@ dependencies:
     - pptk
     - git+https://github.com/sundial-pointcloud-geometry/ectopylasm.git#egg=ectopylasm
     - symfit
+  - line_profiler
